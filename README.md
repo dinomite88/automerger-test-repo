@@ -1,2 +1,2 @@
-# automerger-test-repo
+# automerger-test-repos
 ## try again
